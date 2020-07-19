@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "editor-html"
+    }
+  },
+  "defaultProject": "editor-html",
+  "cli": {
+    "analytics": false
+  }
 }

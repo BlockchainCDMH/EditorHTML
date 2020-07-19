@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2vmin;
+    overflow: hidden;
+    width: 98vw;
+}
+
+
+textarea{
+    resize: none;
+}
+
+.content{
+    display: flex;
+    padding: 2em;
+    width: 40vw;
+    margin: 2vmin;
+    border: solid 2px black;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.generatedwebpage{
+    display: block;
+    width: 45vw;
+    max-width: 45vw;
+}
